@@ -26,3 +26,9 @@ Develop SQL-based analytics to deliver detailed insights into :
 - **Sales Trends**
 - 
 These insights empower stakeholders with key metrics, enabling strategic decision-making.
+
+## License
+this project is licensed under the MIT [License]. ypou are free to use, modify , and share this project with proper attribution.
+
+## About Me
+Hi there I'm **Kabalo Mara** . i'm data Engineer 
